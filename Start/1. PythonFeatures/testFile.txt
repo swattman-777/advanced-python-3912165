@@ -1,0 +1,5 @@
+{'name': 'test1', 'length': 1, 'total': 10} -- 
+{'name': 'test2', 'length': 2, 'total': 20} -- 
+{'name': 'test3', 'length': 3, 'total': 30} -- 
+{'name': 'test4', 'length': 4, 'total': 40} -- 
+END OF RECORDS
